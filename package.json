@@ -1,0 +1,15 @@
+{
+  "name": "serialcomm",
+  "version": "1.0.0",
+  "description": "communication test code",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "serialport": "^6.1.1"
+  },
+  "author": "ethanshry",
+  "license": "ISC"
+}
